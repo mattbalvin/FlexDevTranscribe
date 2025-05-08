@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlexDev Transcribe</string>
+    <string name="record_voice">Record Voice</string>
+    <string name="transcribed_text_appears_here">Transcribed text appears here</string>
+</resources>
